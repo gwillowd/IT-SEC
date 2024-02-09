@@ -1,2 +1,2 @@
 # IT-SEC
-Beginning of a new path
+I am Gareth and I will be documenting my journey in IT
